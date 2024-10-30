@@ -1,8 +1,0 @@
-bcrypt
-matplotlib
-numpy
-pandas
-scipy
-streamlit
-sqlalchemy
-sqlite3
